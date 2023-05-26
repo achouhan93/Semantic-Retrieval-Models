@@ -220,6 +220,7 @@
   - [ColBERTv2: Effective and Efﬁcient Retrieval via Lightweight Late Interaction](https://arxiv.org/pdf/2112.01488.pdf)（Santhanam, 2022, NAACL）
   - [Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval](https://arxiv.org/pdf/2208.04232.pdf)（Li et al., 2022, arXiv）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
   - [Topic-Grained Text Representation-based Model for Document Retrieval](https://arxiv.org/pdf/2207.04656.pdf)（Du et al., 2022, ICANN）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
+  - [SLIM: Sparsified Late Interaction for Multi-Vector Retrieval with Inverted Indexes](https://arxiv.org/pdf/2302.06587)（Li et al., 2023, SIGIR）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
 - **Accelerate Interaction-based Models**
   - [Incorporating Query Term Independence Assumption for Efficient Retrieval and Ranking using Deep Neural Networks](https://arxiv.org/pdf/1907.03693.pdf)（Mitra et al., 2019, arXiv）
   - [Efficient Interaction-based Neural Ranking with Locality Sensitive Hashing](https://dl.acm.org/doi/pdf/10.1145/3308558.3313576)（Ji et al., 2019, WWW）
