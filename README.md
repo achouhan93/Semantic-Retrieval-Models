@@ -40,10 +40,12 @@
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/abs/2010.06467)（Lin et al., 2021, arXiv）
 - [**Semantic Models for the First-stage Retrieval: A Comprehensive Review**](https://arxiv.org/pdf/2103.04831.pdf) **（Guo et al., 2021, TOIS）**<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
 - [A Proposed Conceptual Framework for a Representational Approach to Information Retrieval](https://arxiv.org/pdf/2110.01529.pdf)（Lin et al., 2021, arXiv）
+- [Semantic Information Retrieval On Medical Texts: Research Challenges, Survey and Open Issues](https://hal.science/hal-03209651/file/Semantic_Information_Retrieval_on_Medical_Texts_Final.pdf) (Tamine and Goeuriot, 2021)
 - [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853.pdf)（Fan et al., 2022, arXiv）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
 - [Dense Text Retrieval based on Pretrained Language Models: A Survey](https://arxiv.org/pdf/2211.14876.pdf) （Zhao et al., 2022, arXiv） <img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
 - [Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey](https://arxiv.org/pdf/2208.03197.pdf)（Shen et al., 2022, arXiv）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
-- [Lecture Notes on Neural Information Retrieval](https://arxiv.org/pdf/2207.13443.pdf)（ Tonellotto et al., 2022, arXiv）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
+- [Lecture Notes on Neural Information Retrieval](https://arxiv.org/pdf/2207.13443.pdf)（Tonellotto et al., 2022, arXiv）<img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
+- [Information Retrieval: Recent Advances and Beyond](https://arxiv.org/abs/2301.08801) (Hambarde and Proença, 2023, arxiv) <img src="./images/new.gif" alt="image-20191107150755839" style="zoom:150%;" />
 
 
 
